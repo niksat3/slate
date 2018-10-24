@@ -1,1 +1,1 @@
-web: bundle exec middleman serer -p $PORT
+web: bundle exec middleman server -p $PORT

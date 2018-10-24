@@ -1,7 +1,7 @@
 {
 	"name": "General Purpose GA and WOA Library",
 	"description": "Custom library to solve many metaheuristic problems with Genetic Algorithm or Whale Optimization Library based on NVIDIA CUDA",
-	"repository": "https://github.com/niksat3/General-Purpose-GA--Genetic-Algorithm--and-WOA--Whale-Optimization-Algorithm--Library-using-CUDA-C--"
+	"repository": "https://github.com/niksat3/General-Purpose-GA--Genetic-Algorithm--and-WOA--Whale-Optimization-Algorithm--Library-using-CUDA-C--",
 	"keywords": ["GA", "WOA", "slate", "Evolutionary Algorithm", "General Purpose GA", "General Purpose WOA"],
 	"website": "https://niksat3.github.com/slate"
 }
