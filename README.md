@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lord/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
   <br>
   <a href="https://travis-ci.org/lord/slate"><img src="https://travis-ci.org/lord/slate.svg?branch=master" alt="Build Status"></a>
-  <a href="https://www.heroku.com/deploy?template=https://github.com/hone/slate"><img src="https://camo.githubusercontent.com/c0824806f5221ebb7d25e559568582dd39dd1170/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e706e67" alt="Build Status"></a>
+  <a href="https://www.heroku.com/deploy?template=https://github.com/niksat3/slate"><img src="https://camo.githubusercontent.com/c0824806f5221ebb7d25e559568582dd39dd1170/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e706e67" alt="Build Status"></a>
 </p>
 
 <p align="center">Slate helps you create beautiful, intelligent, responsive API documentation.</p>
